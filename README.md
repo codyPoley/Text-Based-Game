@@ -20,5 +20,4 @@ Enter in move command or add to inventory. <br>
 
 Continue this, tell the user collects all six items then enter the safe room
 
-####Map
-![image](https://github.com/codyPoley/Text-Game/assets/145494382/32a045ea-1895-4a5e-aaa6-5f8241dbc56c)
+
